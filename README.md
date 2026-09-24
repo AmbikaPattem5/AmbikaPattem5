@@ -8,6 +8,9 @@ I bring **2+ years of professional software-industry experience**, along with cu
 
 I enjoy turning requirements into functional, user-friendly interfaces — from component design and state management to REST API integration, form validation, debugging, and responsive design.
 
+Check out my latest project:
+🌐 [Live Demo](https://ambikapattem5.github.io/foodhub/)  
+💻 [View Source Code](https://github.com/ambikapattem5/foodhub)
 ---
 
 ### 🛠️ Tech Stack
@@ -31,52 +34,37 @@ Git • GitHub • Vite • npm • Chrome DevTools
 
 ### 🚀 Featured Projects
 
-I'm currently building practical frontend applications to demonstrate real-world React development skills.
+#### 🍽️ FoodHub — Restaurant Ordering Application
 
-#### 🍽️ Restaurant QR Ordering Application
+A responsive React-based restaurant ordering application designed to provide a simple and user-friendly food ordering experience.
 
-A React-based restaurant ordering platform designed around a real-world restaurant workflow.
-
-**Customer Flow**
-- Scan table QR code
-- Browse restaurant menu
-- Select food items
-- Manage cart
-- Place an order
-
-**Restaurant Staff Flow**
-- View incoming customer orders
-- Confirm orders
-- Forward confirmed orders to the kitchen
-
-**Kitchen Flow**
-- View confirmed orders
-- Update preparation status
-- Mark orders as ready
-
-**Technical Highlights**
+**Key Features**
+- Browse food items and menu options
+- Add and manage items in the cart
+- Interactive ordering workflow
 - Reusable React components
-- React Router based navigation
-- Redux Toolkit for state management
-- REST API integration
-- Form validation and error handling
-- Responsive UI using Tailwind CSS
-- Git/GitHub based development workflow
+- Client-side navigation using React Router
+- State management for application data
+- Responsive design for desktop and mobile devices
+- Modern UI built with Tailwind CSS
+- Deployed and publicly accessible using GitHub Pages
 
-🔗 **Live Demo:** Coming Soon  
-🔗 **GitHub:** Coming Soon
+**Tech Stack**
+
+React.js • JavaScript • React Router • Tailwind CSS • HTML5 • CSS3 • Git • GitHub
+
+🌐 **[Live Demo](https://ambikapattem5.github.io/foodhub/)**  
+💻 **GitHub Repository:** (https://github.com/AmbikaPattem5/foodhub)
 
 ---
 
-### 🌱 Currently Learning & Improving
+### 📌 Currently
 
-- ⚛️ Building real-world applications with React.js
-- 🟨 Strengthening JavaScript (ES6+) fundamentals
-- 🔷 Improving TypeScript skills
-- 🗃️ Working with Redux Toolkit and application state management
-- 🔌 Building applications with REST API integration
-- 🎨 Creating responsive interfaces with Tailwind CSS
-- 🧩 Improving reusable component design and frontend architecture
+- 💼 Exploring React Developer and Frontend Developer opportunities
+- ⚛️ Building practical applications using React.js and JavaScript
+- 🔷 Strengthening TypeScript and Redux Toolkit
+- 🎨 Building responsive interfaces with Tailwind CSS
+- 📚 Continuously improving frontend architecture and development skills
 
 ---
 
