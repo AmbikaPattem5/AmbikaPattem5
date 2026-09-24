@@ -9,6 +9,7 @@ I bring **2+ years of professional software-industry experience**, along with cu
 I enjoy turning requirements into functional, user-friendly interfaces — from component design and state management to REST API integration, form validation, debugging, and responsive design.
 
 Check out my latest project:
+
 🌐 [Live Demo](https://ambikapattem5.github.io/foodhub/)  
 💻 [View Source Code](https://github.com/ambikapattem5/foodhub)
 ---
@@ -54,7 +55,7 @@ A responsive React-based restaurant ordering application designed to provide a s
 React.js • JavaScript • React Router • Tailwind CSS • HTML5 • CSS3 • Git • GitHub
 
 🌐 **[Live Demo](https://ambikapattem5.github.io/foodhub/)**  
-💻 **GitHub Repository:** (https://github.com/AmbikaPattem5/foodhub)
+💻 **[View Source Code](https://github.com/AmbikaPattem5/foodhub)**
 
 ---
 
